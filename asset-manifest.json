@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "git@github.com:qq995473428/jianshupage.git/static/js/main.f333fbb0.chunk.js",
-    "main.js.map": "git@github.com:qq995473428/jianshupage.git/static/js/main.f333fbb0.chunk.js.map",
-    "runtime-main.js": "git@github.com:qq995473428/jianshupage.git/static/js/runtime-main.70756290.js",
-    "runtime-main.js.map": "git@github.com:qq995473428/jianshupage.git/static/js/runtime-main.70756290.js.map",
-    "static/js/2.18efe5d4.chunk.js": "git@github.com:qq995473428/jianshupage.git/static/js/2.18efe5d4.chunk.js",
-    "static/js/2.18efe5d4.chunk.js.map": "git@github.com:qq995473428/jianshupage.git/static/js/2.18efe5d4.chunk.js.map",
-    "static/js/3.455a11a7.chunk.js": "git@github.com:qq995473428/jianshupage.git/static/js/3.455a11a7.chunk.js",
-    "static/js/3.455a11a7.chunk.js.map": "git@github.com:qq995473428/jianshupage.git/static/js/3.455a11a7.chunk.js.map",
-    "index.html": "git@github.com:qq995473428/jianshupage.git/index.html",
-    "precache-manifest.aeb8f8c4fea178715d0c016609b2a340.js": "git@github.com:qq995473428/jianshupage.git/precache-manifest.aeb8f8c4fea178715d0c016609b2a340.js",
-    "service-worker.js": "git@github.com:qq995473428/jianshupage.git/service-worker.js",
-    "static/media/3525704-218988490c02f8ad.webp": "git@github.com:qq995473428/jianshupage.git/static/media/3525704-218988490c02f8ad.2368c4b8.webp"
+    "main.js": "/qq995473428/jianshupage.git/static/js/main.f333fbb0.chunk.js",
+    "main.js.map": "/qq995473428/jianshupage.git/static/js/main.f333fbb0.chunk.js.map",
+    "runtime-main.js": "/qq995473428/jianshupage.git/static/js/runtime-main.0c10829e.js",
+    "runtime-main.js.map": "/qq995473428/jianshupage.git/static/js/runtime-main.0c10829e.js.map",
+    "static/js/2.41349e4a.chunk.js": "/qq995473428/jianshupage.git/static/js/2.41349e4a.chunk.js",
+    "static/js/2.41349e4a.chunk.js.map": "/qq995473428/jianshupage.git/static/js/2.41349e4a.chunk.js.map",
+    "static/js/3.455a11a7.chunk.js": "/qq995473428/jianshupage.git/static/js/3.455a11a7.chunk.js",
+    "static/js/3.455a11a7.chunk.js.map": "/qq995473428/jianshupage.git/static/js/3.455a11a7.chunk.js.map",
+    "index.html": "/qq995473428/jianshupage.git/index.html",
+    "precache-manifest.3ac43e1efa4c60158cd030044c527a25.js": "/qq995473428/jianshupage.git/precache-manifest.3ac43e1efa4c60158cd030044c527a25.js",
+    "service-worker.js": "/qq995473428/jianshupage.git/service-worker.js",
+    "static/media/3525704-218988490c02f8ad.webp": "/qq995473428/jianshupage.git/static/media/3525704-218988490c02f8ad.2368c4b8.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.70756290.js",
-    "static/js/2.18efe5d4.chunk.js",
+    "static/js/runtime-main.0c10829e.js",
+    "static/js/2.41349e4a.chunk.js",
     "static/js/main.f333fbb0.chunk.js"
   ]
 }
